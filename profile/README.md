@@ -2,7 +2,7 @@
 
 A 10-hour IRL hackathon for Austin high-schoolers to come together, learn to code, and build projects.
 
-- Venue TBD
+- Happening at [dadaLab](https://dadalab.io) at 2824 Real St
 - October 14th, 2022
 - Beginner-friendly
 
